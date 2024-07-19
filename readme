@@ -1,4 +1,4 @@
-Clone aplikasi, setelah itu jalankan perintah dibawah :
+Clone aplikasi atau downloa, setelah itu jalankan perintah dibawah :
 
 1. python -m venv venv
 2. venv\Scripts\activate
